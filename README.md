@@ -2,4 +2,5 @@
 An interactive map that displays key figures/facts. 
 
 # Project Link
-http://127.0.0.1:5500/index.html
+Version 1.3
+https://locationtrackermapversion1point3.netlify.app/
