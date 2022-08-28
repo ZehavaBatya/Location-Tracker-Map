@@ -2,7 +2,7 @@ function initMap(){
     map = new google.maps.Map(document.getElementById('map'), {
         center: {lat: 35.7426369589774, lng: -86.87656531479203},
         zoom: 5,
-        mapId: '7db51f2b3fa06609'
+        mapId: '{insert here}'
     });
 
     const marker = new google.maps.Marker({
