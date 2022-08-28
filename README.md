@@ -14,7 +14,6 @@ https://locationtrackermapversion1point3.netlify.app/
 I generated my own Google API key to implement a map packed with geographic locations, such as names of towns, cities, states, and countries. Please note, for security reasons, I have privated a portion of my code to prevent unforeseen hackers. With exact longitude and latitude coordinates, I created a marker of my choice. The red arrow signifies where, as my example shows, a professional named Mario targeting Chicago for his prospective clients. The marker is clickable as well as the marker being able to be animated when you refresh the page in an element function. 
 
 ## Optimizations
-*(optional)*
 
 I started with a basic layout, but then I created the company logo colors of different shades of blue between light blues and darker ones. I removed Google's options for shopping stores to test customizability since the company focused more on institutions, rather than convenience stores. I've also made sure that my files are fully set on GitHub. Future optimizations can be a lengthier description, more markers, and a different marker shape. 
 
